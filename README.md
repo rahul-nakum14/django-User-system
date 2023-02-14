@@ -22,3 +22,13 @@ This system provides user registration, login, logout, and a user profile, as we
 - **/create-post/**: Create a new post (requires authentication)
 - **/update-post/<post-id>**: Update the post
 - **/admin:** Access the Django admin site (requires superuser privileges)
+
+
+## To-do:
+- **Password-Reset**
+- **Search Function**
+- **Implementing Rest-Api**
+- **Moderators Implementation For Banning User and Manage All Posts**
+
+## Contributing
+If you would like to contribute to this project, please submit a pull request or open an issue on GitHub.
