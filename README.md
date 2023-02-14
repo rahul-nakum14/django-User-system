@@ -43,5 +43,5 @@ This system provides user registration, login, logout, and a user profile, as we
 
 
 
-## Contributing
-If you would like to contribute to this project, please submit a pull request or open an issue on GitHub.
+<!-- ## Contributing
+If you would like to contribute to this project, please submit a pull request or open an issue on GitHub. -->
