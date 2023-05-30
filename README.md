@@ -6,7 +6,7 @@ This system provides user registration, login, logout, and a user profile, as we
  - User Registration
  - User Login / Logout
  - Creation Of Posts (Public / Private)
-
+ - RESTApi Support
 
 ## Usage 
 
